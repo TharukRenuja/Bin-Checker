@@ -21,10 +21,6 @@ API Token - Get Api Token from [@botfather](https://telegram.me/botfather)
 
 `!bin xxxxxx`
 
-### Video Tutorial
+### Credits
 
-https://www.youtube.com/watch?v=qIuGJEAAIHY
-
-### Reboot13
-
-[Telegram](https://telegram.me/reboot13_dev) || [Instagram](https://instagram.com/reboot13_dev) || [Twitter](https://twitter.com/reboot13_dev) || [Youtube](https://youtube.com/krutikraut) 
+- [reboot13](github.com/reboot13)
