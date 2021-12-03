@@ -23,4 +23,4 @@ API Token - Get Api Token from [@botfather](https://telegram.me/botfather)
 
 ### Credits
 
-- [reboot13](github.com/reboot13)
+- [reboot13](https://github.com/reboot13-git)
